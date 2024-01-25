@@ -1,0 +1,21 @@
+.custom-scrollbar {
+    max-height: 89vh; /* Adjust as needed */
+    overflow: auto;
+  
+    /* Customize the scrollbar appearance */
+    scrollbar-width: thin; /* "auto" to use the browser's default scrollbar */
+    scrollbar-color: red black; /* Customize scrollbar thumb and track colors */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 3px; /* Adjust the width of the scrollbar */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: rgb(129, 129, 129); /* Customize the thumb color */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background-color: rgb(224, 224, 221); /* Customize the track color */
+  }
+  
