@@ -1,0 +1,16 @@
+audio::-webkit-media-controls-enclosure{
+    background:none;
+}
+audio::-webkit-media-controls-play-button {
+    transform: scale(1.5, 1.5);
+    margin-right: 10px;
+    border-radius: 100%;
+    background-color: bisque;
+}
+audio::-webkit-media-controls-thumb {
+    background: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
+  
