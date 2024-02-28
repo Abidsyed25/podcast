@@ -1,7 +1,7 @@
 <h1 align="center">Podcast website🎵</h1>
 
 # Description🎧
-Welcome to this Podcast Website, the one-stop destination for all your podcast needs! Our platform offers a seamless experience for podcast enthusiasts, providing a rich array of features to enhance your listening journey.
+Welcome to this Podcast Website, the one-stop destination for all your podcast needs! This platform offers a seamless experience for podcast enthusiasts, providing a rich array of features to enhance your listening journey.
 
 # Features:🎼
 - <b>Sign Up and Sign In:</b>
